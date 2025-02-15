@@ -36,7 +36,7 @@ The **Deep Research Tool** is an automated research assistant that uses iterativ
 
 ## Prerequisites
 
-- **Python 3.8+** is required.
+- **Python 3.11+** is required.
 - Install the required packages using the provided `requirements.txt`.
 
 ## Installation
@@ -44,8 +44,8 @@ The **Deep Research Tool** is an automated research assistant that uses iterativ
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://your-repo-url.git
-   cd your-repo-directory
+   git clone https://github.com/mohocp/deep-research-python.git
+   cd deep-research-python
    ```
 
 2. **Create and Activate a Virtual Environment (Optional but Recommended):**
@@ -82,7 +82,8 @@ Before running the application, set up your environment variables. You can do th
 
 > **Note:** If you are using your self-hosted Firecrawl or different LLM settings, update the `.env` file accordingly.
 
-## Usage
+## Usage 
+#### You can run the console app or the streamlit app.
 
 ### 1. Running the Console Application
 
