@@ -1,0 +1,9 @@
+autogen_agentchat==0.2.40
+autogen_core==0.4.7
+autogen_ext==0.4.7
+firecrawl==1.12.0
+langchain==0.3.18
+nest_asyncio==1.6.0
+python-dotenv==1.0.1
+streamlit==1.39.0
+tiktoken==0.7.0
